@@ -3,6 +3,8 @@
 Collect coins, avoid drones, and survive a 45-second round. Move with arrow keys or WASD;
 press R to restart. This is deliberately small so you can add features during the lab.
 
+Naomi initialized the shared Lab 3 project.
+
 **Play it here:** https://www.avivz.net/coin-dash/
 
 ## Run it locally
